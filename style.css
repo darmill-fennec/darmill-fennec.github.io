@@ -3,10 +3,10 @@
     padding: 0;
     font-family: sans-serif;
 }
-.banner{
+.background{
     width: 100%;
     height: 100vh;
-    background-image: url(omggg.jpg);
+    background: url("bigground.png");
     background-position: center;
 }
 .logo{
