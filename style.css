@@ -23,7 +23,7 @@
 
 }
 .links{
-    width: 35%;
+    width: fit-content;
     align-items: center;
     margin: auto;
     display: grid;
